@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
-font-family: 'Prata', serif;
-font-family: 'Prompt', sans-serif;
+    font-family: 'Prata', serif;
+    font-family: 'Prompt', sans-serif;
 }
 .section1{
     display: flex;
@@ -34,11 +34,11 @@ font-family: 'Prompt', sans-serif;
 .color{
     color: yellowgreen;
 }
-.section2{
-}
 .h1{
     text-align: center;
     padding-top: 80px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .span{
     color: yellow;
@@ -49,7 +49,7 @@ font-family: 'Prompt', sans-serif;
     margin-right: 5%;
 }
 .half2{
-    width: 30%;
+    width: 25%;
 }
 #icon-color1{
     background-color: thistle;
@@ -62,7 +62,7 @@ font-family: 'Prompt', sans-serif;
 }
 #icon-color3{
     background-color: rgb(235, 107, 235);
-    margin-left: 5%;
+    margin-left: 10%;
     border-radius: 10px;
 }
 .icon{
@@ -70,4 +70,51 @@ font-family: 'Prompt', sans-serif;
 }
 .a{
     margin-left: 10px;
+}
+.section3{
+    display: flex;
+    padding-top: 100px;
+}
+
+.section3{
+    padding-left: 40px;
+    background-image: url(image/shape1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.img-size{
+    width: 80%;
+}
+.half3{
+    width: 50%;
+    padding-left: 40px;
+}
+.psec3{
+    padding-right: 80px;
+}
+.link2{
+    padding: 10px 70px;
+    color: #fff7f6;
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+}
+.section4{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 80px;
+}
+.img-size2{
+    width: 80%;
+}
+.half4{
+    width: 50%;
+    margin-left: 40px;
+}
+.link3{
+    padding: 10px 70px;
+    color: #fff7f6;
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
 }
